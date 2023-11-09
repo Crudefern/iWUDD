@@ -75,6 +75,12 @@ LIBS	:= -lwut -lntfs -lmocha
 #-------------------------------------------------------------------------------
 LIBDIRS	:= $(PORTLIBS) $(WUT_ROOT) $(WUT_ROOT)/usr
 
+ifeq ($(STANDALONE),1)
+export STANDALONE=1
+CXXFLAGS += -DSTANDALONE -g
+CFLAGS += -DSTANDALONE -g
+endif
+
 ifeq ($(DEBUG),1)
 export DEBUG=1
 CXXFLAGS += -DDEBUG -g

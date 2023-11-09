@@ -1,6 +1,6 @@
-# WUDD - Wii U Disc Dumper
-
-Inspired by [wudump](https://github.com/FIX94/wudump) from FIX94.
+# iWUDD - Integrated Wii U Disc Dumper
+A fork of WUDD intended to be integrated within [bariista](https://github.com/Crudefern/Bariista).
+WUDD is inspired by [wudump](https://github.com/FIX94/wudump) from FIX94.
 
 Features:
 - Dump a Wii U Disc in WUD (uncompressed) or [WUX](https://gbatemp.net/threads/wii-u-image-wud-compression-tool.397901/) (loseless compression) format (including the game.key)
