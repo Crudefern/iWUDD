@@ -24,4 +24,4 @@ Requires an [Environment](https://github.com/wiiu-env/EnvironmentLoader) (e.g. T
 - [libntfs](https://github.com/wiiu-env/libntfs)
 
 ## Building
-iWUDD is not intended to be built by itself, for boulding instructions see [bariista](https://github.com/Crudefern/Bariista).
+iWUDD is not intended to be built by itself, for building instructions see [bariista](https://github.com/Crudefern/Bariista).
