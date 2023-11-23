@@ -1,4 +1,5 @@
 # iWUDD - Integrated Wii U Disc Dumper
+# deprecated
 A fork of WUDD intended to be integrated within [bariista](https://github.com/Crudefern/Bariista).
 WUDD is inspired by [wudump](https://github.com/FIX94/wudump) from FIX94.
 
